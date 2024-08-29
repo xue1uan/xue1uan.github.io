@@ -24,7 +24,7 @@ author:
   avatar           : "WechatIMG1279.jpg"
   name             : "Xueyuan Cao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "MSBS student at Purdue University"
   location         : "West Lafayette, IN"
   employer         : "Purdue University"
   uri              : # URL
@@ -44,12 +44,12 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "xue1uan"
-  github           : "1uan-yuan"
+  # github           : "1uan-yuan"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
