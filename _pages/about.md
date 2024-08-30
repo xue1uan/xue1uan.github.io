@@ -46,6 +46,11 @@ I am a MS student in Purdue University - Computer Science Department. After spen
                 Mentor: <a href="https://timhuang1.github.io/" target="_blank">Dr. Xinting Huang</a><br>
                 Text Generation Group
             </div>
+            <div style="margin-top: 20px;">
+                <b>PurSec Lab, Purdue University</b><br>
+                <i>Research Assistant • Summer 2024</i><br>
+                Advisor: <a href="https://beerkay.github.io/" target="_blank">Prof. Z.Berkay Celik</a><br>
+            </div>
         </div>
         <div style="flex-basis: 40%; display: flex; justify-content: center; align-items: center;">
             <img src="/images/tencent_logo.png" alt="Tencent Logo" width="100"/>
