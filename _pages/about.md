@@ -11,24 +11,28 @@ I am a MS student in Purdue University - Computer Science Department. After spen
 
 Education
 ======
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <div>
-        <b>M.S.</b><br>
-        <i>2024 - 2025 (expected)</i><br>
-        Computer Science<br>
-        Purdue University (PU), U.S.<br>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+    <div style="flex-basis: 60%; display: flex; flex-direction: column;">
+        <div>
+            <b>M.S.</b><br>
+            <i>2024 - 2025 (expected)</i><br>
+            Computer Science<br>
+            Purdue University (PU), U.S.
+        </div>
+        <div style="margin-top: 20px;">
+            <b>B.S.</b><br>
+            <i>2020 - 2024</i><br>
+            Computer Science<br>
+            Purdue University (PU), U.S.<br>
+            Major in Computer Science, with a minor in Math
+        </div>
     </div>
-    <div>
-        <b>B.S.</b><br>
-        <i>2020 - 2024 </i><br>
-        Computer Science<br>
-        Purdue University (PU), U.S.<br>
-        Major in Computer Science, with a minor in Math <br>
-    </div>
-    <div>
-        <img src="Purdue_University64.png" width="100"/>
+    <div style="flex-basis: 40%; display: flex; justify-content: center; align-items: center;">
+        <img src="Purdue_University64.png" alt="Purdue University Logo" width="100"/>
     </div>
 </div>
+
+
 
 <!-- A data-driven personal website
 ======
