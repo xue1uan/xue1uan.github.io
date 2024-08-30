@@ -34,9 +34,9 @@ I am a MS student in Purdue University - Computer Science Department. After spen
     </div>
 </div>
 
-<!-- Experiences Section -->
-<div>
-    <h2>Experiences</h2>
+<!-- Work Experience Section -->
+<div style="margin-bottom: 50px;">
+    <h2>Work Experience</h2>
     <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
         <div style="flex-basis: 60%; display: flex; flex-direction: column;">
             <div>
@@ -46,10 +46,25 @@ I am a MS student in Purdue University - Computer Science Department. After spen
                 Mentor: <a href="https://timhuang1.github.io/" target="_blank">Dr. Xinting Huang</a><br>
                 Text Generation Group
             </div>
+        </div>
+        <div style="flex-basis: 40%; display: flex; justify-content: center; align-items: center;">
+            <img src="/images/tencent_logo.png" alt="Tencent Logo" width="100"/>
+        </div>
+    </div>
+</div>
+
+<!-- Research Experience Section -->
+<div style="margin-bottom: 50px;">
+    <h2>Research Experience</h2>
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+        <div style="flex-basis: 60%; display: flex; flex-direction: column;">
             <div style="margin-top: 20px;">
                 <b>PurSec Lab, Purdue University</b><br>
                 <i>Research Assistant • 2021 - 2024</i><br>
+                - Motion Sensor Weakness Analysis
+                - AR-VR Pairing Project
                 Advisor: <a href="https://beerkay.github.io/" target="_blank">Prof. Z.Berkay Celik</a><br>
+                Mentor: <a href="https://rehammaburas.github.io/" target="_blank">Prof. Reham Aburas</a><br>, <a href="https://habiba-farrukh.github.io/" target="_blank">Prof. Habiba Farrukh</a><br>
             </div>
         </div>
         <div style="flex-basis: 40%; display: flex; justify-content: center; align-items: center;">
