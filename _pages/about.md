@@ -57,7 +57,7 @@ I am a MS student in Purdue University - Computer Science Department. After spen
 <div style="margin-bottom: 50px; width: 100%;">
     <h2>Research Experience</h2>
     <div style="display: flex; flex-direction: column; align-items: stretch; width: 100%;">
-        <div style="margin: 5px 0;">
+        <div>
             <b>PurSec Lab, Purdue University</b><br>
             <i>Research Assistant • 2022 - 2024</i><br>
             - Motion Sensor Weakness Analysis<br>
@@ -69,6 +69,10 @@ I am a MS student in Purdue University - Computer Science Department. After spen
         </div>
     </div>
 </div>
+
+Scholarship
+------
+Awarded Purdue CS Corporate Partners Scholarship
 
 
 
