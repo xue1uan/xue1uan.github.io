@@ -11,11 +11,20 @@ I am a MS student in Purdue University - Computer Science Department. After spen
 
 Education
 ======
-**MSBS**
-_2020 - 2025 (expected)_
-**College of Science, Purdue University**
-_B.S. in Computer Science, with a minor in Math_
-_M.S. student in Computer Science_
+<table>
+<tr>
+    <td valign="top">
+        <b>Ph.D.</b><br>
+        <i>2020 - 2025 (expected)</i><br>
+        Computer Science<br>
+        Purdue University (PU), U.S.<br>
+        <i>MSBS</i><br>
+    </td>
+    <td valign="top" align="right">
+        <img src="purdue.jpeg" alt="PU Logo" width="100"/>
+    </td>
+</tr>
+</table>
 
 <!-- A data-driven personal website
 ======
