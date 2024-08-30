@@ -13,14 +13,20 @@ Education
 ======
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
     <div>
-        <b>Ph.D.</b><br>
-        <i>2020 - 2025 (expected)</i><br>
+        <b>M.S.</b><br>
+        <i>2024 - 2025 (expected)</i><br>
         Computer Science<br>
         Purdue University (PU), U.S.<br>
-        MSBS
     </div>
     <div>
-        <img src="Purdue_University64.png" alt="PU Logo" width="100"/>
+        <b>B.S.</b><br>
+        <i>2020 - 2024 </i><br>
+        Computer Science<br>
+        Purdue University (PU), U.S.<br>
+        Major in Computer Science, with a minor in Math <br>
+    </div>
+    <div>
+        <img src="Purdue_University64.png" width="100"/>
     </div>
 </div>
 
