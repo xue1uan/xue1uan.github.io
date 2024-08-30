@@ -28,7 +28,7 @@ Education
         </div>
     </div>
     <div style="flex-basis: 40%; display: flex; justify-content: center; align-items: center;">
-        <img src="Purdue_University64.png" alt="Purdue University Logo" width="100"/>
+        <img src="/images/Purdue_University64.png" alt="Purdue University Logo" width="100"/>
     </div>
 </div>
 
