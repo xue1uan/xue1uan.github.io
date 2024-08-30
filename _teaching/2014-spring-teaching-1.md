@@ -2,9 +2,9 @@
 title: "Teaching Assistant, Purdue University"
 collection: teaching
 type: "Undergraduate course"
-# permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/undergrad-ta
 venue: "Purdue University, Computer Science Department"
-date: 2014-01-01
+date: 2021 - 2024
 location: "West Lafayette, Indiana, U.S."
 ---
 
