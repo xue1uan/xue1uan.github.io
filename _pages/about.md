@@ -32,6 +32,23 @@ Education
     </div>
 </div>
 
+Experiences
+======
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+    <div style="flex-basis: 60%; display: flex; flex-direction: column;">
+        <div>
+            <b>Tencent AI Lab, Shenzhen, China</b><br>
+            <i>Researcher Intern•Summer 2024</i><br>
+            Large Language Models, Natural Language Generation<br>
+            Advisor: <a href="https://timhuang1.github.io/" target="_blank">Dr. Xinting Huang
+            Text Generation Group
+        </div>
+    </div>
+    <div style="flex-basis: 40%; display: flex; justify-content: center; align-items: center;">
+        <img src="/images/tencent_logo.png" alt="Tencent Logo" width="100"/>
+    </div>
+</div>
+
 
 
 <!-- A data-driven personal website
