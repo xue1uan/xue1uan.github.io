@@ -11,20 +11,18 @@ I am a MS student in Purdue University - Computer Science Department. After spen
 
 Education
 ======
-<table>
-<tr>
-    <td valign="top">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <div>
         <b>Ph.D.</b><br>
         <i>2020 - 2025 (expected)</i><br>
         Computer Science<br>
         Purdue University (PU), U.S.<br>
-        <i>MSBS</i><br>
-    </td>
-    <td valign="top" align="right">
-        <img src="purdue.jpeg" alt="PU Logo" width="100"/>
-    </td>
-</tr>
-</table>
+        MSBS
+    </div>
+    <div>
+        <img src="Purdue_University64.png" alt="PU Logo" width="100"/>
+    </div>
+</div>
 
 <!-- A data-driven personal website
 ======
