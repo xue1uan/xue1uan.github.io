@@ -9,44 +9,47 @@ redirect_from:
 
 I am a MS student in Purdue University - Computer Science Department. After spending four years in PU, I gained my BS degree with a major in Computer Science and a minor in Math. During my undergraduate time, I have had the fortune to work with Professor [Z.Berkay Celik](https://beerkay.github.io/) at the PurSec Lab. 
 
-Education
-======
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-    <div style="flex-basis: 60%; display: flex; flex-direction: column;">
-        <div>
-            <b>M.S.</b><br>
-            <i>2024 - 2025 (expected)</i><br>
-            Computer Science<br>
-            Purdue University (PU), U.S.
+<!-- Education Section -->
+<div style="margin-bottom: 50px;"> <!-- Increased bottom margin for better spacing -->
+    <h2>Education</h2>
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+        <div style="flex-basis: 60%; display: flex; flex-direction: column;">
+            <div>
+                <b>M.S.</b><br>
+                <i>2024 - 2025 (expected)</i><br>
+                Computer Science<br>
+                Purdue University (PU), U.S.
+            </div>
+            <div style="margin-top: 20px;">
+                <b>B.S.</b><br>
+                <i>2020 - 2024</i><br>
+                Computer Science<br>
+                Purdue University (PU), U.S.<br>
+                Major in Computer Science, with a minor in Math
+            </div>
         </div>
-        <div style="margin-top: 20px;">
-            <b>B.S.</b><br>
-            <i>2020 - 2024</i><br>
-            Computer Science<br>
-            Purdue University (PU), U.S.<br>
-            Major in Computer Science, with a minor in Math
+        <div style="flex-basis: 40%; display: flex; justify-content: center; align-items: center;">
+            <img src="/images/Purdue_University64.png" alt="Purdue University Logo" width="200"/>
         </div>
-    </div>
-    <div style="flex-basis: 40%; display: flex; justify-content: center; align-items: center;">
-        <img src="/images/Purdue_University64.png" alt="Purdue University Logo" width="200"/>
     </div>
 </div>
 
-
-Experiences
-======
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-    <div style="flex-basis: 60%; display: flex; flex-direction: column;">
-        <div>
-            <b>Tencent AI Lab, Shenzhen, China</b><br>
-            <i>Researcher Intern • Summer 2024</i><br>
-            Large Language Models, Natural Language Generation<br>
-            Mentor: <a href="https://timhuang1.github.io/" target="_blank">Dr. Xinting Huang</a><br>
-            Text Generation Group
+<!-- Experiences Section -->
+<div>
+    <h2>Experiences</h2>
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+        <div style="flex-basis: 60%; display: flex; flex-direction: column;">
+            <div>
+                <b>Tencent AI Lab, Shenzhen, China</b><br>
+                <i>Researcher Intern • Summer 2024</i><br>
+                Large Language Models, Natural Language Generation<br>
+                Mentor: <a href="https://timhuang1.github.io/" target="_blank">Dr. Xinting Huang</a><br>
+                Text Generation Group
+            </div>
         </div>
-    </div>
-    <div style="flex-basis: 40%; display: flex; justify-content: center; align-items: center;">
-        <img src="/images/tencent_logo.png" alt="Tencent Logo" width="100"/>
+        <div style="flex-basis: 40%; display: flex; justify-content: center; align-items: center;">
+            <img src="/images/tencent_logo.png" alt="Tencent Logo" width="100"/>
+        </div>
     </div>
 </div>
 
