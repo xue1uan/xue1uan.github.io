@@ -58,17 +58,14 @@ I am a MS student in Purdue University - Computer Science Department. After spen
     <h2>Research Experience</h2>
     <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
         <div style="flex-basis: 60%; display: flex; flex-direction: column;">
-            <div style="margin-top: 20px;">
+            <div>
                 <b>PurSec Lab, Purdue University</b><br>
                 <i>Research Assistant • 2021 - 2024</i><br>
-                - Motion Sensor Weakness Analysis
-                - AR-VR Pairing Project
+                - Motion Sensor Weakness Analysis<br>
+                - AR-VR Pairing Project<br>
                 Advisor: <a href="https://beerkay.github.io/" target="_blank">Prof. Z.Berkay Celik</a><br>
                 Mentor: <a href="https://rehammaburas.github.io/" target="_blank">Prof. Reham Aburas</a><br>, <a href="https://habiba-farrukh.github.io/" target="_blank">Prof. Habiba Farrukh</a><br>
             </div>
-        </div>
-        <div style="flex-basis: 40%; display: flex; justify-content: center; align-items: center;">
-            <img src="/images/tencent_logo.png" alt="Tencent Logo" width="100"/>
         </div>
     </div>
 </div>
