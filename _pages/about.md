@@ -32,6 +32,7 @@ Education
     </div>
 </div>
 
+======
 Experiences
 ======
 <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
@@ -40,7 +41,7 @@ Experiences
             <b>Tencent AI Lab, Shenzhen, China</b><br>
             <i>Researcher Intern • Summer 2024</i><br>
             Large Language Models, Natural Language Generation<br>
-            Advisor: <a href="https://timhuang1.github.io/" target="_blank">Dr. Xinting Huang</a><br>
+            Mentor: <a href="https://timhuang1.github.io/" target="_blank">Dr. Xinting Huang</a><br>
             Text Generation Group
         </div>
     </div>
