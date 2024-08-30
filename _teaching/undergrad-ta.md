@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/undergrad-ta
 venue: "Purdue University, Computer Science Department"
-date: 2024
+date: 2024-01-01
 location: "West Lafayette, Indiana, U.S."
 ---
 
