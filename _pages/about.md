@@ -48,7 +48,7 @@ I am a MS student in Purdue University - Computer Science Department. After spen
             </div>
             <div style="margin-top: 20px;">
                 <b>PurSec Lab, Purdue University</b><br>
-                <i>Research Assistant • Summer 2024</i><br>
+                <i>Research Assistant • 2021 - 2024</i><br>
                 Advisor: <a href="https://beerkay.github.io/" target="_blank">Prof. Z.Berkay Celik</a><br>
             </div>
         </div>
