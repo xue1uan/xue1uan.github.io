@@ -32,7 +32,7 @@ Education
     </div>
 </div>
 
-======
+
 Experiences
 ======
 <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
