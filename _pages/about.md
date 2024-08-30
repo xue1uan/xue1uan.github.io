@@ -54,18 +54,18 @@ I am a MS student in Purdue University - Computer Science Department. After spen
 </div>
 
 <!-- Research Experience Section -->
-<div style="margin-bottom: 50px;">
+<div style="margin-bottom: 50px; width: 100%;">
     <h2>Research Experience</h2>
-    <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-        <div style="flex-basis: 60%; display: flex; flex-direction: column;">
-            <div>
-                <b>PurSec Lab, Purdue University</b><br>
-                <i>Research Assistant • 2021 - 2024</i><br>
-                - Motion Sensor Weakness Analysis<br>
-                - AR-VR Pairing Project<br>
-                Advisor: <a href="https://beerkay.github.io/" target="_blank">Prof. Z.Berkay Celik</a><br>
-                Mentor: <a href="https://rehammaburas.github.io/" target="_blank">Prof. Reham Aburas</a><br>, <a href="https://habiba-farrukh.github.io/" target="_blank">Prof. Habiba Farrukh</a><br>
-            </div>
+    <div style="display: flex; flex-direction: column; align-items: stretch; width: 100%;">
+        <div style="margin: 5px 0;">
+            <b>PurSec Lab, Purdue University</b><br>
+            <i>Research Assistant • 2022 - 2024</i><br>
+            - Motion Sensor Weakness Analysis<br>
+            - AR-VR Pairing Project
+        </div>
+        <div style="margin: 5px 0;">
+            Advisor: <a href="https://beerkay.github.io/" target="_blank">Prof. Z.Berkay Celik</a><br>
+            Mentor: <a href="https://rehammaburas.github.io/" target="_blank">Prof. Reham Aburas</a>, <a href="https://habiba-farrukh.github.io/" target="_blank">Prof. Habiba Farrukh</a>
         </div>
     </div>
 </div>
