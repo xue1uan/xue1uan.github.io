@@ -12,9 +12,9 @@ title                    : "Xueyuan Cao's Homepage"
 title_separator          : "-"
 name                     : &name "Xueyuan Cao"
 description              : &description "personal description"
-url                      : https://xueyuan.bruce.cao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xue1uan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xue1uan/xueyuan.bruce.cao.github.io" # GitHub username and repository name, e.g. "mmistakes/minimal-mistakes"
+repository               : "xue1uan/xue1uan.github.io" # GitHub username and repository name, e.g. "mmistakes/minimal-mistakes"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
